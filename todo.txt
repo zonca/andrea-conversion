@@ -1,3 +1,4 @@
+Andrea Zonca
 Conversion functions needed:
 
  - Dollars to Cents
